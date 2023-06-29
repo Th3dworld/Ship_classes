@@ -1,4 +1,4 @@
-//This is the specification fiile the CARGOSHIP class
+///This is the specification fiile the CARGOSHIP class
 //This is class will be derived from the Ship class
 #ifndef CARGOSHIP_H
 #define CARGOSHIP_H
